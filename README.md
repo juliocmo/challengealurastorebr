@@ -1,1 +1,3 @@
 # challengealurastorebr
+Este repositório contém o desafio da Alura Store, onde o objetivo é ajudar o Senhor João a decidir qual loja ele deve vender. Para isso, foi analisado dados de vendas, desempenho e avaliações das quatro lojas fictícias. Utilizando bibliotecas como Pandas e Matplotlib, manipulados arquivos CSV e criados gráficos que apresentam de forma clara os resultados da análise.
+Os entregáveis incluem vários gráficos diferentes, para facilitar a visualização dos dados. Ao final, foi apresentado uma recomendação fundamentada explicando qual loja o Senhor João deve vender, baseada nas métricas analisadas.
